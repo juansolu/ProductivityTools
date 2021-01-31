@@ -3,4 +3,4 @@ Python based productivity toolset.
 
 # License
 
-[LICENSE] See license
+[See MIT license](LICENSE)
